@@ -1,0 +1,7 @@
+__pycache__/agent.cpython-37.pyc
+__pycache__/env.cpython-37.pyc
+__pycache__/genetics.cpython-37.pyc
+__pycache__/inputs.cpython-37.pyc
+__pycache__/neuralnetwork.cpython-37.pyc
+__pycache__/trade.cpython-37.pyc
+/logging/*
